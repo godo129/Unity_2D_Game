@@ -1,7 +1,7 @@
 # Unity_2D_Game
 
 
-
+Unity로 만든 횡 스크롤 게임 입니다 
 
 
 ![image](https://user-images.githubusercontent.com/76652929/117562195-0815c100-b0d8-11eb-89c8-4c25b596090b.png)
